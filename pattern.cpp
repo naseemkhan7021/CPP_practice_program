@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 /*
 * right angle pattern
        1
@@ -16,8 +16,7 @@ int main()
       {
          /* code */
       }
-      
-      std::cout<<" "<<i;
+
+      std::cout << " " << i;
    }
-   
 }
